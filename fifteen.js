@@ -1,3 +1,7 @@
+//Credit given to khalid sharpe for help with timer issues and direction on how to structure the code
+//(Was pretty stuck for a little while initially...)
+
+
 var moves = 0;
 var updateInterval;
 var diff;//time until update interval hits -- offset
